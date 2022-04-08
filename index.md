@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+![ChoropletGif1](docs/assets/choropleth-gif-1.gif)
 ![Example1](docs/assets/Choropleth-ex-1.png)
 
 `ignore the rest of the text on this site for now`

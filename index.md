@@ -2,7 +2,7 @@
 
 ![Example1](docs/assets/Choropleth-ex-1.png)
 
-'ignore the rest of the text on this site for now'
+`ignore the rest of the text on this site for now`
 
 You can use the [editor on GitHub](https://github.com/amal-kadri/Housing_Price_Choropleth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

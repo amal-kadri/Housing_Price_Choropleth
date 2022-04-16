@@ -1,5 +1,6 @@
 # Housing_Price_Chloropleth
 This is a website built using GitHub Pages to display our Housing Price Variation Project
+
 this is our webpage: https://amal-kadri.github.io/Housing_Price_Choropleth_app/
 
 the app itself is here: https://intense-forest-88650.herokuapp.com/

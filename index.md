@@ -18,3 +18,5 @@ Elle Boodsakorn: [https://github.com/khun-elle](https://github.com/khun-elle)
 Haokun Zhang: [https://github.com/haokunz](https://github.com/haokunz)  
 Kevin O’Connor: [https://github.com/k-oconnor](https://github.com/k-oconnor)  
 Karlo Vlahek: [https://github.com/KarloVlahek](https://github.com/KarloVlahek)
+
+**At the time of making this website (04/18/2022) Heroku's Integration with GitHub was not functioning properly, so the app was published manually through the Heroku CLI. This should hopefully not be an issue going forward, and we recommend using GitHub version control for collaboration going forward. This is only an issue with the webapp hosting, and not with the core functionality of the apps themselves or the underlying code.*

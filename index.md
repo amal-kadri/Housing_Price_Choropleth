@@ -1,10 +1,10 @@
-# Housing Price Change
-## Python Application displaying Percentage Change in Housing Prices from 2010-2019
+# **Housing Price Change**
+## *Python Application displaying Percentage Change in Housing Prices from 2010-2019*
 ### Enter a State (capitalized) to get started!
+<iframe src="https://house-price-choro.herokuapp.com/" height="550" width="100%" frameBorder="1"></iframe>
 
-<iframe src="https://house-price-choro.herokuapp.com/" height="500" width="100%" frameBorder="0"></iframe>
-
-This application (above) is one of two Python scripts myself and my colleagues have made to visualize trends in the US real estate market. The pricing information was gathered from data made publicly available from Zillow, and the population information was gathered from the US census. These data sets were cleaned and merged to compute percentage changes (both year-on-year and aggregated for the decade) at the state and county level (done mostly with base Python and Pandas). Then using Plotly, we visualized these trends using choropleth maps. Finally, we turned these Python scripts into webapps using Dash, and hosted them using Heroku to display on this Github Pages site.
+This application (above) is one of two Python scripts myself and my colleagues have made to visualize trends in the US real estate market. The pricing information was gathered from data made publicly available from Zillow, and the population information was gathered from the US census. These data sets were cleaned and merged to compute percentage changes (both year-on-year and aggregated for the decade) at the state and county level (done mostly with base Python and Pandas). Then using Plotly, we visualized these trends using choropleth maps. Finally, we turned these Python scripts into webapps using Dash, and hosted them using Heroku to display on this Github Pages site.  
+*(The choropleths, especially the median house price ones, do take a while to load as they have to render a lot of data using the relatively low-load system provided to us by Heroku)*  
 
 ![ChoropletGif1](docs/assets/choropleth-gif-1.gif)
 ![Example1](docs/assets/Choropleth-ex-1.png)

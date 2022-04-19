@@ -10,6 +10,7 @@ Due to a substantial missing data problem, some of the aggregated state percenta
 This project was primarily an exercise in data engineering and visualization. The full project, as well as steps to recreate it can be found in [the GitHub Repository](https://github.com/amal-kadri/Housing_Price_Choropleth_app), or using the button at the top of the page!
 
 ![ChoropletGif1](docs/assets/choropleth-gif-1.gif)
+![Idaho-Yearly-Median-Price](docs/assets/idaho-yoy-median-price.gif)
 
 ## Collaborators:  
 Amal Kadri: [https://github.com/amal-kadri](https://github.com/amal-kadri)  

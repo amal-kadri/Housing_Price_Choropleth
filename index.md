@@ -1,5 +1,5 @@
 # **Housing Price Change**
-## *Python Application displaying Percentage Change in Housing Prices from 2010-2019*
+## *Python Application displaying Changes in Housing Prices from 2010-2019*
 ### Enter a State (capitalized) to get started!
 <iframe src="https://house-price-choro.herokuapp.com/" height="570" width="100%" frameBorder="10"></iframe>  
 

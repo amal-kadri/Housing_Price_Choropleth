@@ -1,6 +1,7 @@
 # **Housing Price Change**
 ## *Python Application displaying Changes in Housing Prices from 2010-2019*
 ### Enter a State (capitalized) to get started!
+*The below application is no longer running as the underlying database was taken down, but it's functionality is visible in the gifs below*
 <iframe src="https://house-price-choro.herokuapp.com/" height="570" width="100%" frameBorder="10"></iframe>  
 
 This application (above) is a collection of Python Scripts myself and my colleagues have made to visualize trends in the US real estate market. The pricing information was gathered from data made publicly available from Zillow, and the population information was gathered from the US census. These data sets were cleaned and merged to compute percentage changes (both year-on-year and aggregated for the decade) at the state and county level (done mostly with base Python and Pandas). Then using Plotly, we visualized these trends using choropleth maps. Finally, we turned these Python scripts into a webapp using Dash, and hosted them using Heroku to display on this Github Pages site.  
